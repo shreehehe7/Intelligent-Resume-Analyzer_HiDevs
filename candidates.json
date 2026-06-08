@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Alice Smith",
+        "email": "alice.smith@example.com",
+        "skills": [
+            "python",
+            "sql",
+            "machine learning",
+            "pandas",
+            "docker"
+        ],
+        "experience": 4,
+        "education": "bachelor of science in computer science"
+    },
+    {
+        "name": "Bob Johnson",
+        "email": "bob.j@example.com",
+        "skills": [
+            "java",
+            "spring",
+            "mysql"
+        ],
+        "experience": 1,
+        "education": "high school diploma"
+    },
+    {
+        "name": "Charlie Brown",
+        "email": "charlie.b@example.com",
+        "skills": [
+            "python",
+            "aws",
+            "etl pipelines",
+            "pandas",
+            "sqlite"
+        ],
+        "experience": 2,
+        "education": "master in data science (equivalent to bachelor)"
+    }
+]
