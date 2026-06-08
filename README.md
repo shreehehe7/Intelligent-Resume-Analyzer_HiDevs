@@ -68,4 +68,3 @@ The final score is capped at 100.
 ## Notes
 
 - The project currently uses sample resume text embedded in the script.
-- You can replace those sample strings with real resume files later if you want a more realistic workflow.
