@@ -65,6 +65,11 @@ The final score is capped at 100.
 - `40-59`: MAYBE
 - `0-39`: NOT RECOMMENDED
 
+## Demo Youtube link
+
+https://youtu.be/Kbw-o9yqBqk
+
+
 ## Notes
 
 - The project currently uses sample resume text embedded in the script.
